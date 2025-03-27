@@ -1,0 +1,9 @@
+<svg width="300" height="80" viewBox="0 0 300 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 20H60V60H20V20Z" fill="#0099FF" />
+  <path d="M30 30H50V50H30V30Z" fill="#001122" />
+  <path d="M80 30H100V35H80V30Z" fill="#0099FF" />
+  <path d="M80 40H110V45H80V40Z" fill="#0099FF" />
+  <path d="M80 50H100V55H80V50Z" fill="#0099FF" />
+  <text x="120" y="45" font-family="Arial" font-weight="bold" font-size="24" fill="#FFFFFF">SQUID PROXIES</text>
+</svg>
+
